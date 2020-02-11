@@ -15,7 +15,7 @@ namespace Project_B
         public Form1()
         {
             InitializeComponent();
-            label1.Text = "Hello world";
+            label1.Text = "Hello";
         }
     }
 }
